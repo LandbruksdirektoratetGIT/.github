@@ -3,7 +3,7 @@
     "description": "Maven deploy workflow template.",
     "iconName": "maven",
     "categories": [
-        "Java"
+        "Continuous Integration"
     ],
     "filePatterns": [
         "pom.xml$"
