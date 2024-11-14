@@ -1,0 +1,11 @@
+{
+    "name": "Maven Deploy Workflow",
+    "description": "Maven deploy workflow template.",
+    "iconName": "maven",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml$"
+    ]
+}
